@@ -71,10 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ali-Asad1/Ali-Asad1/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ali-Asad01/count.svg?"  />
 </div>
