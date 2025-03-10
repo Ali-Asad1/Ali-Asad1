@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate **front-end developer** specializing in **React**, **Next.js**, and **Electron.js**.  <br>💻 With **3 years of experience**, I craft modern, user-friendly applications that are fast, functional, and beautifully designed.  <br>🚀 I love tackling challenging problems, collaborating on innovative projects, and learning the latest tech trends to stay ahead in the ever-evolving web development world.<br>☕ When I’m not coding, you’ll find me sipping tea, debugging with determination, or brainstorming my next big idea!  <br>✨ Let’s build something amazing together!
+👋 Hi there! I'm a passionate **front-end developer** specializing in **React**, **Next.js**, and **Electron.js**.  <br>💻 With **4 years of experience**, I craft modern, user-friendly applications that are fast, functional, and beautifully designed.  <br>🚀 I love tackling challenging problems, collaborating on innovative projects, and learning the latest tech trends to stay ahead in the ever-evolving web development world.<br>☕ When I’m not coding, you’ll find me sipping tea, debugging with determination, or brainstorming my next big idea!  <br>✨ Let’s build something amazing together!
 
 
 ## 🌐 Socials:
