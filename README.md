@@ -1,86 +1,143 @@
 <div align="center">
-  <img height="400" src="https://i.imgflip.com/9dkmef.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E293B,100:334155&text=Ali%20Asad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Next.js&descAlignY=58"/>
+
+### Frontend Engineer • React • TypeScript • Next.js
+
+Building scalable web applications, thoughtful interfaces, and maintainable frontend architectures.
+
+<p align="center">
+  <a href="mailto:aliasad.3128@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/aliasad.01" >
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/aliasad01">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="42" />
+  </a>
+</p>
 </div>
 
-###
+---
 
-# 💫 About Me:
-👋 Hi there! I'm a passionate **front-end developer** specializing in **React**, **Next.js**, and **Electron.js**.  <br>💻 With **4 years of experience**, I craft modern, user-friendly applications that are fast, functional, and beautifully designed.  <br>🚀 I love tackling challenging problems, collaborating on innovative projects, and learning the latest tech trends to stay ahead in the ever-evolving web development world.<br>☕ When I’m not coding, you’ll find me sipping tea, debugging with determination, or brainstorming my next big idea!  <br>✨ Let’s build something amazing together!
+## 👨‍💻 About Me
 
+I'm a Frontend Engineer focused on building **scalable, maintainable, and high-quality web applications**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliasad__001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-asad-a77290232)
-[![LinkedIn](https://img.shields.io/badge/Telegram-%2324A1DE.svg?logo=telegram&logoColor=white)](https://t.me/aliasad01)
-# 💻 Tech Stack:
+I enjoy turning complex requirements into simple interfaces, designing reusable systems, and continuously improving the architecture behind the UI.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+- ⚛️ React & TypeScript enthusiast
+- 🏗️ Interested in scalable frontend architecture
+- 🎨 Love building clean and consistent UI systems
+- ⚡ Focused on performance and developer experience
+- 🧩 Enjoy solving complex frontend problems
+- 🧠 Always learning something new
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+---
 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
-![Three.js](https://img.shields.io/badge/Three.js-1C1E24?style=flat&logo=three.js&logoColor=#FFFFFF)
+## ✨ What I Enjoy Building
 
+| 🧩 Area                   | 💡 What I Enjoy                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| **Component Systems**     | Building reusable, flexible, and consistent UI components                          |
+| **Frontend Architecture** | Designing scalable architectures that stay maintainable as applications grow       |
+| **Complex Interfaces**    | Building dashboards, admin panels, data-heavy apps, forms, and workflows           |
+| **Performance**           | Optimizing rendering, caching, data fetching, bundle size, and overall UX          |
+| **State Management**      | Designing predictable and scalable client & server state architectures             |
+| **Responsive UI**         | Creating polished experiences that work beautifully across all screen sizes        |
+| **Design Systems**        | Turning design patterns into consistent, reusable, and accessible UI systems       |
+| **Developer Experience**  | Creating abstractions and patterns that make frontend development faster and safer |
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 🛠 Tech Stack
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+### Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ali-Asad1&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Asad1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Frontend
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ali-Asad1&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,electron" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Backend & Infrastructure
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
 
-### ✅ Contributes
+### Tooling & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+<p>
+    <img src="https://skillicons.dev/icons?i=pnpm,vscode,postman,notion,discord" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Learning
+
+| Area                | Exploring                          |
+| ------------------- | ---------------------------------- |
+| ⚡ **Frontend**     | Advanced React Patterns            |
+| 🅰️ **Angular**      | Signals · RxJS · DI · Architecture |
+| 🏗️ **Architecture** | Scalable Frontend Systems          |
+| 🚀 **Performance**  | Rendering · Caching · Optimization |
+| 🔄 **Real-time**    | WebSockets · Event-driven UI       |
+
+</td>
+
+<td width="50%" valign="top">
+
+```mermaid
+mindmap
+  root((Currently Exploring))
+    Frontend
+      Advanced React Patterns
+      Angular
+        Signals
+        RxJS
+        Dependency Injection
+        Architecture
+    Architecture
+      Scalable Frontend Systems
+    Performance
+      Rendering
+      Caching
+      Optimization
+    Real-time
+      WebSockets
+      Event-driven UI
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Asad1/Ali-Asad1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Asad1/Ali-Asad1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ali-Asad1/Ali-Asad1/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ali-Asad1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
--->
-
-### View
-
-[![](https://visitcount.itsvg.in/api?id=Ali-Asad1&icon=0&color=10)](https://visitcount.itsvg.in)
-
